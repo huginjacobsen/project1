@@ -22,3 +22,4 @@ elif operation == "-":
     result = minus(n1, n2)
 
 print(result)
+print("Done")
